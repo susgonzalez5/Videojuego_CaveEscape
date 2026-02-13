@@ -1,0 +1,60 @@
+:root {
+}
+
+.botonMenu {
+    color: rgb(217, 171, 63);
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    background-color: rgb(85, 71, 89);
+    width: 35%;
+    height: 15%;
+    align-self: center;
+    align-content: auto;
+    justify-content: flex-start;
+    align-items: auto;
+    font-size: 60px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    -unity-font-definition: url("project://database/Assets/Fonts/BAHNSCHRIFT.TTF?fileID=12800000&guid=35ed3b0f5e1f70b46b814584f8854fd0&type=3#BAHNSCHRIFT");
+    display: flex;
+}
+
+.botonMenu:hover {
+    font-size: 70px;
+    background-color: rgb(77, 48, 86);
+    -unity-font-definition: url("project://database/Assets/Fonts/BAHNSCHRIFT.TTF?fileID=12800000&guid=35ed3b0f5e1f70b46b814584f8854fd0&type=3#BAHNSCHRIFT");
+    color: rgb(217, 171, 63);
+}
+
+.botonCerrar {
+    background-color: rgba(62, 45, 66, 0);
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    color: rgb(217, 171, 63);
+    font-size: 60px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    position: relative;
+    -unity-font-definition: url("project://database/Assets/Fonts/BAHNSCHRIFT.TTF?fileID=12800000&guid=35ed3b0f5e1f70b46b814584f8854fd0&type=3#BAHNSCHRIFT");
+}
+
+.botonCerrar:hover {
+    font-size: 80px;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/Fonts/BAHNSCHRIFT.TTF?fileID=12800000&guid=35ed3b0f5e1f70b46b814584f8854fd0&type=3#BAHNSCHRIFT");
+}

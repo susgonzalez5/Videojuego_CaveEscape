@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: ba942be858c47534fbdc71af1610d911
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6499743638903941519
+    second: Logo_Color_0
+  - first:
+      213: -4671552142463684026
+    second: Logo_Color_1
+  - first:
+      213: -3756878611652964224
+    second: Logo_Color_2
+  - first:
+      213: -7084113869426363311
+    second: Logo_Color_3
+  - first:
+      213: 9168466219806491162
+    second: Logo_Color_4
+  - first:
+      213: -6694360694828143899
+    second: Logo_Color_5
+  - first:
+      213: -7594677220499502349
+    second: Logo_Color_6
+  - first:
+      213: -9129525608597721292
+    second: Logo_Color_7
+  - first:
+      213: 2933301147256871058
+    second: Logo_Color_8
+  - first:
+      213: -6570417105235669469
+    second: Logo_Color_9
+  - first:
+      213: 2143756869315037522
+    second: Logo_Color_10
+  - first:
+      213: 817424508583428165
+    second: Logo_Color_11
+  - first:
+      213: -2388355397196473924
+    second: Logo_Color_12
+  - first:
+      213: -253494335783796788
+    second: Logo_Color_13
+  - first:
+      213: -1575719272989795173
+    second: Logo_Color_14
+  - first:
+      213: -9179850313488207074
+    second: Logo_Color_15
+  - first:
+      213: -7745086872728907299
+    second: Logo_Color_16
+  - first:
+      213: -2497692423934707769
+    second: Logo_Color_17
+  - first:
+      213: -5914476489432307227
+    second: Logo_Color_18
+  - first:
+      213: -6004331500018068176
+    second: Logo_Color_19
+  - first:
+      213: -4008026136655032211
+    second: Logo_Color_20
+  - first:
+      213: 2001138071746687435
+    second: Logo_Color_21
+  - first:
+      213: -4115002229315149174
+    second: Logo_Color_22
+  - first:
+      213: -7405536194691976156
+    second: Logo_Color_23
+  - first:
+      213: -700498695113023202
+    second: Logo_Color_24
+  - first:
+      213: -4000412911216530334
+    second: Logo_Color_25
+  - first:
+      213: 2778404517416164328
+    second: Logo_Color_26
+  - first:
+      213: 6804469970897050544
+    second: Logo_Color_27
+  - first:
+      213: -8571293199521348474
+    second: Logo_Color_28
+  - first:
+      213: 950380890227974568
+    second: Logo_Color_29
+  - first:
+      213: -2445226109028215479
+    second: Logo_Color_30
+  - first:
+      213: -1318325660868111480
+    second: Logo_Color_31
+  - first:
+      213: -8438416882702188872
+    second: Logo_Color_32
+  - first:
+      213: -8379043244972156984
+    second: Logo_Color_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logo_Color_0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1720
+        width: 185
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1769608f8954cc5a0800000000000000
+      internalID: -6499743638903941519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1531
+        width: 217
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642bcbec3105b2fb0800000000000000
+      internalID: -4671552142463684026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_2
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1636
+        width: 153
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809928bec2ecdbc0800000000000000
+      internalID: -3756878611652964224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1623
+        width: 85
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547c6018fb20bd90800000000000000
+      internalID: -7084113869426363311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_4
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1581
+        width: 109
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a120cb6437fec3f70800000000000000
+      internalID: 9168466219806491162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_5
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1623
+        width: 85
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea6e629a6ad813a0800000000000000
+      internalID: -6694360694828143899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_6
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1636
+        width: 153
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa40686e494a9690800000000000000
+      internalID: -7594677220499502349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_7
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1531
+        width: 216
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f63bb44d86d4180800000000000000
+      internalID: -9129525608597721292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_8
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1720
+        width: 185
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298dd752add25b820800000000000000
+      internalID: 2933301147256871058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1165
+        width: 125
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0740547031d4a0800000000000000
+      internalID: -6570417105235669469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_10
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1353
+        width: 103
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2598358b38720cd10800000000000000
+      internalID: 2143756869315037522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1210
+        width: 109
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54040d87243185b00800000000000000
+      internalID: 817424508583428165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_12
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1367
+        width: 114
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb997b89b6bdaded0800000000000000
+      internalID: -2388355397196473924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_13
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1242
+        width: 119
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7803ae386b7cf0800000000000000
+      internalID: -253494335783796788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_14
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1367
+        width: 115
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd4b37babe12ae0800000000000000
+      internalID: -1575719272989795173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_15
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1210
+        width: 110
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f64dd6ce9a9080800000000000000
+      internalID: -9179850313488207074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_16
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1353
+        width: 103
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1d374468ce38490800000000000000
+      internalID: -7745086872728907299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_17
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1165
+        width: 125
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ff2949f9665dd0800000000000000
+      internalID: -2497692423934707769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_18
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1024
+        width: 186
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ecf618fe8beda0800000000000000
+      internalID: -5914476489432307227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1003
+        width: 108
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0351cb320545caca0800000000000000
+      internalID: -6004331500018068176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_20
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 799
+        width: 112
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601232d671a068c0800000000000000
+      internalID: -4008026136655032211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_21
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1069
+        width: 96
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b8f8497875cb10800000000000000
+      internalID: 2001138071746687435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_22
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 799
+        width: 130
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82eabf464394e6c0800000000000000
+      internalID: -4115002229315149174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_23
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1069
+        width: 96
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424361031104a3990800000000000000
+      internalID: -7405536194691976156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_24
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 799
+        width: 113
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11e920f5245746f0800000000000000
+      internalID: -700498695113023202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_25
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1003
+        width: 107
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c6d0007adab78c0800000000000000
+      internalID: -4000412911216530334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_26
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1024
+        width: 186
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb5eee1030ee8620800000000000000
+      internalID: 2778404517416164328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 757
+        width: 300
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb912c03655e6e50800000000000000
+      internalID: 6804469970897050544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_28
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 757
+        width: 300
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6840fc86f36ac0980800000000000000
+      internalID: -8571293199521348474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 581
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ab53626e603d00800000000000000
+      internalID: 950380890227974568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_30
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 166
+        width: 475
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945dcd72fcfc01ed0800000000000000
+      internalID: -2445226109028215479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 144
+        width: 581
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8839ca5dbcd54bde0800000000000000
+      internalID: -1318325660868111480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_32
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 132
+        width: 468
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be70e7cd88b4ea80800000000000000
+      internalID: -8438416882702188872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo_Color_33
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 151
+        width: 339
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c75cc11098a7bb80800000000000000
+      internalID: -8379043244972156984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logo_Color_0: -6499743638903941519
+      Logo_Color_1: -4671552142463684026
+      Logo_Color_10: 2143756869315037522
+      Logo_Color_11: 817424508583428165
+      Logo_Color_12: -2388355397196473924
+      Logo_Color_13: -253494335783796788
+      Logo_Color_14: -1575719272989795173
+      Logo_Color_15: -9179850313488207074
+      Logo_Color_16: -7745086872728907299
+      Logo_Color_17: -2497692423934707769
+      Logo_Color_18: -5914476489432307227
+      Logo_Color_19: -6004331500018068176
+      Logo_Color_2: -3756878611652964224
+      Logo_Color_20: -4008026136655032211
+      Logo_Color_21: 2001138071746687435
+      Logo_Color_22: -4115002229315149174
+      Logo_Color_23: -7405536194691976156
+      Logo_Color_24: -700498695113023202
+      Logo_Color_25: -4000412911216530334
+      Logo_Color_26: 2778404517416164328
+      Logo_Color_27: 6804469970897050544
+      Logo_Color_28: -8571293199521348474
+      Logo_Color_29: 950380890227974568
+      Logo_Color_3: -7084113869426363311
+      Logo_Color_30: -2445226109028215479
+      Logo_Color_31: -1318325660868111480
+      Logo_Color_32: -8438416882702188872
+      Logo_Color_33: -8379043244972156984
+      Logo_Color_4: 9168466219806491162
+      Logo_Color_5: -6694360694828143899
+      Logo_Color_6: -7594677220499502349
+      Logo_Color_7: -9129525608597721292
+      Logo_Color_8: 2933301147256871058
+      Logo_Color_9: -6570417105235669469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
